@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PM0120242P</string>
+    <string name="ingresoNombre">Ingrese su Nombre\t</string>
+    <string name="IngresoApellido">Ingrese su Apellido</string>
+    <string name="Formulario">Formulario de Ingreso</string>
+    <string name="IngresoEdad">ingrese su Edad</string>
+    <string name="IngresoCorreo">ingrese su Correo</string>
 </resources>
